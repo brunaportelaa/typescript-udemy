@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "module": "CommonJS",  // For Node.js (you can also use ESNext if using "type": "module" in package.json)
+      "target": "ES6",
+      "esModuleInterop": true,
+      "moduleResolution": "node"
+    }
+  }
+  
